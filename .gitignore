@@ -1,0 +1,12 @@
+# Data
+*.csv
+
+# Models
+*.pkl
+
+# Images/Plots
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
